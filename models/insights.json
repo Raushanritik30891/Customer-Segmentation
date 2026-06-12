@@ -1,0 +1,78 @@
+[
+  {
+    "segment": "\ud83d\udc8e Premium Customers",
+    "cluster_id": 2,
+    "icon": "\ud83d\udc8e",
+    "tagline": "Your most valuable customers",
+    "customer_count": 224,
+    "pct_customers": 5.2,
+    "avg_recency_days": 10.0,
+    "avg_frequency": 25.3,
+    "avg_monetary": 17994.76,
+    "avg_order_value": 704.28,
+    "strategies": [
+      "Launch an exclusive VIP loyalty program with early access to new products.",
+      "Offer personalized concierge service and dedicated account managers.",
+      "Create premium bundles and limited-edition products targeted at this segment.",
+      "Solicit testimonials and case studies \u2014 high social proof value.",
+      "Invite to exclusive preview events and brand ambassador programs."
+    ]
+  },
+  {
+    "segment": "\ud83c\udfc6 High Value Customers",
+    "cluster_id": 1,
+    "icon": "\ud83c\udfc6",
+    "tagline": "High spenders with growth potential",
+    "customer_count": 214,
+    "pct_customers": 4.9,
+    "avg_recency_days": 117.7,
+    "avg_frequency": 1.7,
+    "avg_monetary": 3857.8,
+    "avg_order_value": 2214.43,
+    "strategies": [
+      "Up-sell to premium product tiers \u2014 they have the budget.",
+      "Offer cross-category promotions to broaden their product mix.",
+      "Introduce a tiered rewards program to move them toward Premium.",
+      "Run high-AOV flash sales with exclusive access.",
+      "Personalized email campaigns highlighting complementary products."
+    ]
+  },
+  {
+    "segment": "\ud83c\udf31 Potential Customers",
+    "cluster_id": 0,
+    "icon": "\ud83c\udf31",
+    "tagline": "Early-stage \u2014 nurture to convert",
+    "customer_count": 1886,
+    "pct_customers": 43.5,
+    "avg_recency_days": 41.3,
+    "avg_frequency": 5.1,
+    "avg_monetary": 1728.21,
+    "avg_order_value": 344.12,
+    "strategies": [
+      "Send a welcome series explaining top products and brand values.",
+      "Offer a first-repeat-purchase discount (e.g. 15% off second order).",
+      "Showcase bestsellers and curated starter bundles.",
+      "Use retargeting ads to bring them back after their first purchase.",
+      "Collect preference data via surveys to personalize future messaging."
+    ]
+  },
+  {
+    "segment": "\u26a0\ufe0f At Risk Customers",
+    "cluster_id": 3,
+    "icon": "\u26a0\ufe0f",
+    "tagline": "Lapsing customers \u2014 act now",
+    "customer_count": 2014,
+    "pct_customers": 46.4,
+    "avg_recency_days": 147.0,
+    "avg_frequency": 1.5,
+    "avg_monetary": 383.02,
+    "avg_order_value": 263.69,
+    "strategies": [
+      "Launch an immediate win-back campaign: 'We miss you \u2014 here's 20% off'.",
+      "Send a re-engagement survey to understand why they've drifted away.",
+      "Highlight new products or improvements since their last visit.",
+      "Create urgency with limited-time offers tied to their previous purchases.",
+      "Consider suppressing from paid channels to reduce wasted ad spend."
+    ]
+  }
+]
