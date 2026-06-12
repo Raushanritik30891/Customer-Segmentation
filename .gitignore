@@ -1,25 +1,11 @@
+# Step 1: .gitignore ko completely replace karo
+cat > .gitignore << 'EOF'
 __pycache__/
 *.py[cod]
-*.egg-info/
 .env
 venv/
 .venv/
-env/
-
-# Data & model artifacts (keep structure, ignore large files)
-data/*.csv
-models/*.joblib
-outputs/*.html
-outputs/*.png
-outputs/*.csv
-
-# Keep the raw dataset tracked if desired
-# data/Online_Retail.xlsx
-
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
-
-# OS
 .DS_Store
 Thumbs.db
+.ipynb_checkpoints/
+EOF
